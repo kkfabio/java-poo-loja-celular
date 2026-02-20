@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @version 1.1
  * @since 1.0
  */
-public class Loja {
+public class configuracao_celular { 
 
     /**
      * Método principal da aplicação.
@@ -56,3 +56,4 @@ public class Loja {
         sc.close();
     }
 }
+
