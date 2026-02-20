@@ -25,5 +25,5 @@ Como Executar ->
 1. Clone o repositório: git clone https://github.com/kkfabio/java-poo-loja-celular.git
 2. Acesse a pasta do projeto: cd java-poo-loja-celular
 3. Compile os arquivos: javac *.java
-4. Execute o programa: java L
+4. Execute o programa: java Loja
 
